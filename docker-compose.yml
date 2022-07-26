@@ -1,0 +1,18 @@
+version: '3'
+services:
+  teamwork-mgr:
+    build:
+      context: ./teamwork-mgr
+    restart: always
+    volumes:
+      - ./data/nacos/:/root/nacos/config
+    image: 0glg0/teamwork-mgr:${JVSVERSION}
+    container_name: teamwork-mgr
+    networks:
+      - jvs_jvs
+    external_links:
+      - gateway
+
+networks:
+  jvs_jvs:
+    external: true
