@@ -60,4 +60,4 @@
 
 
 ### 技术交流与商务支持
-![1660556021266](https://user-images.githubusercontent.com/94048608/184612215-bcd890da-9b8c-45b9-a2c8-ac8702e2ecd1.png)
+![image](https://user-images.githubusercontent.com/94048608/186551142-9f990cc2-3c74-4e6c-9123-253fb4d79f44.png)
