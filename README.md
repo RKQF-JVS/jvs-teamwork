@@ -60,4 +60,4 @@
 
 
 ### 技术交流与商务支持
-<img width="140" alt="1664285835629" src="https://user-images.githubusercontent.com/94048608/192546043-6ff57103-4952-4d8f-ac26-5e6d5319663b.png">
+<img width="143" alt="1665533540447" src="https://user-images.githubusercontent.com/94048608/195221417-9ede6894-9037-4739-96bb-a94162dbd94f.png">
