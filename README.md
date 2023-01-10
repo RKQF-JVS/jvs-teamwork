@@ -49,30 +49,32 @@
 ![image](https://user-images.githubusercontent.com/94048608/211461018-25450d2b-f073-41b7-81bd-c303fb74c9ec.png)
 任务看板
 ![image](https://user-images.githubusercontent.com/94048608/211461046-6db64b15-1223-4a40-b0cb-2d5fd2921e4e.png)
+任务明细
+![image](https://user-images.githubusercontent.com/94048608/211461757-6d26628e-29ae-492c-9a94-5577f904509c.png)
+
 项目扩展卡片
 ![image](https://user-images.githubusercontent.com/94048608/211461173-a65a28db-da72-4ad6-ae5f-dcd6b2919496.png)
-项目共享文档
+项目共享文档（支持预览与在线编辑）
+![image](https://user-images.githubusercontent.com/94048608/211461324-fed77e93-f257-4acf-8b99-5a2a2b9e549f.png)
+
 项目文档版本控制
+![image](https://user-images.githubusercontent.com/94048608/211461354-d33a5650-bc74-4d22-a645-4805037181e0.png)
+![image](https://user-images.githubusercontent.com/94048608/211461374-ea2ef166-79b9-4bbf-9fed-8bf426c447a9.png)
+
+个人待办
+![image](https://user-images.githubusercontent.com/94048608/211461521-f21d4608-c125-4001-8b89-f49d2a318374.png)
+
+目标管理
+![image](https://user-images.githubusercontent.com/94048608/211461607-a7cc7403-1a6c-4d15-94d5-91f9645db357.png)
+目标内容
+![image](https://user-images.githubusercontent.com/94048608/211461654-3b47bfbf-2bf6-435d-88bc-b6054828ad58.png)
+
 
 
 
 
 ### 使用与授权
-无忧企业文档采用开源模式，在合规备案情况下，支持自用与商用，商用提供100%源代码。
-### 版本说明：
-使用用途|费用模式|使用条件|授权时间
--|-|-|-
-个人学习、个人使用|免费|免费备案|永久
-商用、二次开发|收费、代码交付|技术服务合同+商用备案|永久
-
-### 商用费用说明：
-- > 技术服务费，必选，具体费用请与商务沟通
-- > 定制开发费，可选，1500元/人天
-- > 部署费用，可选，500元/次
-- > 长期运维，可选，协商
-
-
-备案说明：联系我们的商务人员，在线备案，备案内容：项目名称，使用模式（自用/商用），备案主体主体，备案联系人员，即可。
+无忧·企业计划 支持社区开源版本与商用版本，采用开源模式，在合规备案情况下，支持自用与商用，商用提供100%源代码。
 ### 禁止行为（为了保障产品走得更远）：
 * 在未获得我方认可分发代码的情况下，禁止以任何形式进行代码分发（包含但不限于代码拷贝、代码公开、代码开源、代码分享等行为）
 * 禁止在未备案的情况下，私自使用（包含自用与商用）
