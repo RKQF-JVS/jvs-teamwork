@@ -25,18 +25,17 @@
 ### 体验地址与账号说明
 账号说明：
 * 普通用户端：体验者自有微信扫码登录
-管理端(全网共享)：testadmin 123456
-管理端+应用编辑：联系运营微信号 ruanjbz，开设独立环境与独立账号
-管理端+平台配置+应用编辑：联系运营微信号 ruanjbz，获取私有化部署文档与安装包
-地址说明：
+* 管理端(全网共享)：testadmin 123456
+* 管理端+应用编辑：联系运营微信号 ruanjbz，开设独立环境与独立账号
+* 管理端+平台配置+应用编辑：联系运营微信号 ruanjbz，获取私有化部署文档与安装包
+地址说明（系列产品）：
+* 管理平台（含管理平台、低代码、数据智仓）：https://frame.bctools.cn/
+* 企业文档：http://knowledge.bctools.cn/
+* 企业计划（项目管理）：http://teamwork.bctools.cn/
+* 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
+* 规则引擎：http://jvs-rules.bctools.cn/
+* 视频会议：http://meeting.bctools.cn/
 
-管理平台（含管理平台、低代码、数据智仓）：https://frame.bctools.cn/
-企业文档：http://knowledge.bctools.cn/
-企业计划（项目管理）：http://teamwork.bctools.cn/
-企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
-规则引擎：http://jvs-rules.bctools.cn/
-视频会议：http://meeting.bctools.cn/
-整体项目文档群 点击跳转
 
 
 ### 部分截图
