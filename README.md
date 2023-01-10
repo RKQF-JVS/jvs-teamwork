@@ -6,10 +6,12 @@
     从灵活度上看，可以用于企业各种事务的管理与处理，比如客户进展管理、开发进度、产品设计等，那么灵活度的核心是提供有效的模板管理与配置；
 协同性上看，可以有效的提供团队的事务进展的同步与推进，便捷有效的查看方式；
 
+![image](https://user-images.githubusercontent.com/94048608/211460455-d33c425a-30e2-4b9e-9ffd-7cd21cd8c5e8.png)
 
 ### 项目组成
 企业文档分为业务前台与管理后台，项目由 业务前台与管理后台组成
 业务前台前端地址：https://github.com/RKQF-JVS/jvs-teamwork-ui
+
 业务前台后端地址：https://github.com/RKQF-JVS/jvs-teamwork
 
 
@@ -19,9 +21,7 @@
 * VUE+Element UI
 
 ### 项目核心功能（四大板块）
-* 项目管理（项目-任务wbs）
- - wbs任务分解
- -
+* 项目管理
 * OKR目标管理
 * 个人待办
 * 管理配置
