@@ -13,9 +13,8 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 
 ### 项目组成
 企业文档分为业务前台与管理后台，项目由 业务前台与管理后台组成
-业务前台前端地址：https://github.com/RKQF-JVS/jvs-teamwork-ui
-
-业务前台后端地址：https://github.com/RKQF-JVS/jvs-teamwork
+- 业务前台前端地址：https://github.com/RKQF-JVS/jvs-teamwork-ui
+- 业务前台后端地址：https://github.com/RKQF-JVS/jvs-teamwork
 
 
 ### 技术栈说明
@@ -24,7 +23,7 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 * VUE+Element UI
 
 ### 项目核心功能（四大板块）
-* 项目管理
+* 项目任务管理
 * OKR目标管理
 * 个人待办
 * 管理配置
