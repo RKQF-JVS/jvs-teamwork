@@ -50,13 +50,17 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 
 ### 部分截图
 项目计划管理
+
 ![image](https://user-images.githubusercontent.com/94048608/211461018-25450d2b-f073-41b7-81bd-c303fb74c9ec.png)
 任务看板
+
 ![image](https://user-images.githubusercontent.com/94048608/211461046-6db64b15-1223-4a40-b0cb-2d5fd2921e4e.png)
 任务明细
+
 ![image](https://user-images.githubusercontent.com/94048608/211461757-6d26628e-29ae-492c-9a94-5577f904509c.png)
 
 项目扩展卡片
+
 ![image](https://user-images.githubusercontent.com/94048608/211461173-a65a28db-da72-4ad6-ae5f-dcd6b2919496.png)
 项目共享文档（支持预览与在线编辑）
 ![image](https://user-images.githubusercontent.com/94048608/211461324-fed77e93-f257-4acf-8b99-5a2a2b9e549f.png)
