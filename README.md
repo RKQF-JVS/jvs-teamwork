@@ -42,7 +42,7 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 * 企业文档：http://knowledge.bctools.cn/
 * 企业计划（项目管理）：http://teamwork.bctools.cn/
 * 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
-* 规则引擎：http://jvs-rules.bctools.cn/
+* 规则引擎：http://rules.bctools.cn/
 * 逻辑引擎：http://logic.bctools.cn/
 * 视频会议：http://meeting.bctools.cn/
 
