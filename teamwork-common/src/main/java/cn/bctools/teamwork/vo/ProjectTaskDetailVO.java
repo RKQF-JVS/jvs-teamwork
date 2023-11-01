@@ -37,8 +37,6 @@ public class ProjectTaskDetailVO extends ProjectTask {
     @ApiModelProperty("所属任务列表信息")
     private ProjectTaskMould projectTaskMould;
 
-    @ApiModelProperty("所属项目信息")
-    private ProjectInfo projectInfo;
 
     @ApiModelProperty("所属父任务信息")
     private ProjectTask prentTask;

@@ -87,7 +87,7 @@ public class ProjectTaskController {
     @GetMapping("/detail")
     public R<ProjectTaskDetailVO> detail(@RequestParam String taskId) {
         UserDto user = UserCurrentUtils.getCurrentUser();
-        verifyLookAuth(taskId, user);
+//        verifyLookAuth(taskId, user);
         ProjectTaskDetailVO detail = service.detail(taskId, user);
         List<ProjectTask> tasks = detail.getTasks();
         //设置执行者信息

@@ -45,8 +45,8 @@ import java.util.stream.Collectors;
 @Service
 public class ProjectTaskServiceImpl extends ServiceImpl<ProjectTaskMapper, ProjectTask> implements ProjectTaskService {
     private final static String PID = "-1";
-    private final static String TIME_TYPE_START="start";
-    private final static String TIME_TYPE_END="end";
+    private final static String TIME_TYPE_START = "start";
+    private final static String TIME_TYPE_END = "end";
     @Autowired
     ProjectLogService projectLogService;
     @Autowired
@@ -243,7 +243,7 @@ public class ProjectTaskServiceImpl extends ServiceImpl<ProjectTaskMapper, Proje
         //开始时间和结束时间清除 放在最后的顺序才能判断 editMark 为true则进入了更新,则不用进入清除，
         //这里只对原来有，现在无的数据进行清除，但是存在开始时间和结束时间原来都有的情况，加一个参数 editTimeType 进行区分
         String timeType = dto.getEditTimeType();
-        if(!editMark && StrUtil.isEmpty(timeType)){
+        if (!editMark && StrUtil.isEmpty(timeType)) {
             boolean editStart = TIME_TYPE_START.equals(timeType);
             if (BeanUtil.isEmpty(dtoStartTime) && BeanUtil.isNotEmpty(taskStartTime) && editStart) {
                 update.set(ProjectTask::getStartTime, null);
@@ -308,17 +308,17 @@ public class ProjectTaskServiceImpl extends ServiceImpl<ProjectTaskMapper, Proje
         ProjectTask task = this.getById(taskId);
         ProjectTaskMould mould = projectTaskMouldService.getById(task.getMouldId());
         ProjectInfo projectInfo = projectInfoService.getById(task.getProjectId());
+        BeanUtil.copyProperties(task, ptdVo);
         //子任务
-        ptdVo.setProjectInfo(projectInfo)
-                .setProjectTaskMould(mould)
-                .setTaskCount("0/0")
-                .setTasks(new ArrayList<>())
-                .setTags(new ArrayList<>());
+        ptdVo.setProjectInfo(projectInfo);
+        ptdVo.setProjectTaskMould(mould);
+        ptdVo.setTaskCount("0/0");
+        ptdVo.setTasks(new ArrayList<>());
+        ptdVo.setTags(new ArrayList<>());
         String taskPid = task.getPid();
         if (StrUtil.isNotEmpty(taskPid) && !ProjectTaskConst.TOP_TASK_PID.equals(taskPid)) {
             ptdVo.setPrentTask(getById(taskPid));
         }
-        BeanUtil.copyProperties(task, ptdVo);
         //子任务
         List<ProjectTask> child = this.listChildTask(taskId);
         if (CollUtil.isNotEmpty(child)) {
