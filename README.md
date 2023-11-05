@@ -112,7 +112,8 @@
 
 ### 技术交流与商务支持
 
-![输入图片说明](img/1030.png)
+![群二维码](https://github.com/RKQF-JVS/jvs-teamwork/assets/94048608/b01dc3f0-7d21-409d-bc9b-2c9e3554bb78)
+
 
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
