@@ -112,7 +112,8 @@
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork/assets/94048608/ff32a3ac-1b9b-4c24-9c41-9fabd32df14c)
+![群二维码](https://github.com/RKQF-JVS/jvs-teamwork/assets/94048608/5d8ab7bd-daae-4c0a-b62b-4d1ac36bcfc7)
+
 
 
 
