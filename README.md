@@ -52,10 +52,12 @@
 ### 部分截图
 项目管理：
 
-![输入图片说明](img/image%E8%AE%A1%E5%88%92%E7%AE%A1%E7%90%86.png)
+![image](https://github.com/user-attachments/assets/4fb59949-4928-4b1b-ae70-645e53d6d4ec)
+
 任务看板：
 
-![输入图片说明](img/%E4%BB%BB%E5%8A%A1%E7%9C%8B%E6%9D%BF.jpg)
+![image](https://github.com/user-attachments/assets/54846108-0f8e-47e0-b115-347d935b454b)
+
 
 项目文库：
 
@@ -112,7 +114,7 @@
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork/assets/94048608/7ea5aacd-5008-4673-873e-d9e29992747b)
+[![群二维码](https://github.com/RKQF-JVS/jvs-teamwork/assets/94048608/7ea5aacd-5008-4673-873e-d9e29992747b)](https://github.com/RKQF-JVS/jvs-knowledge-ui)
 
 
 
