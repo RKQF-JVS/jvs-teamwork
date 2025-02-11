@@ -39,6 +39,7 @@
 - 规则引擎：http://rules.bctools.cn/
 - 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
+- APS（智能排产）：https://aps.bctools.cn/
 
 整体项目文档群 [点击跳转](http://knowledge.bctools.cn/#/view?id=dd37733c43c064ac1c4f1c2155e04ce6)
 
@@ -114,7 +115,8 @@
 
 ### 技术交流与商务支持
 
-![微信截图_20241009183836](https://github.com/user-attachments/assets/5e8c4707-98d9-4f06-b405-1c6272f1c433)
+![Uploading 微信图片_20250211100806.png…]()
+
 
 
 
