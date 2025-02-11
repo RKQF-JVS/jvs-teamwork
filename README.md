@@ -115,7 +115,8 @@
 
 ### 技术交流与商务支持
 
-![Uploading 微信图片_20250211100806.png…]()
+![微信图片_20250211100806](https://github.com/user-attachments/assets/dc0d82d6-7b8e-449d-b4a2-9888027f98c8)
+
 
 
 
