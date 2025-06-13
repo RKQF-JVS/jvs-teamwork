@@ -114,7 +114,8 @@
 
 
 ### 技术交流与商务支持
-![微信图片_20250605141947](https://github.com/user-attachments/assets/8a9b0914-90f2-4133-bb2c-4ee2cf2048f0)
+![微信图片_20250613102005](https://github.com/user-attachments/assets/bdb9f78c-5218-4d0b-bbe4-ea45c4d62b22)
+
 
 
 
