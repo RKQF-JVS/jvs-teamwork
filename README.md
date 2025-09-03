@@ -114,7 +114,7 @@
 
 
 ### 技术交流与商务支持
-<img width="229" height="373" alt="微信图片_20250827090954_36" src="https://github.com/user-attachments/assets/4df95ebf-f74f-42f2-bb98-1f0764c4b4d1" />
+<img width="242" height="411" alt="微信图片_20250903143744_40" src="https://github.com/user-attachments/assets/332a645f-4db7-47aa-81d7-085dc678c059" />
 
 
 
